@@ -33,11 +33,11 @@ $ ./deploy.sh <NomeDaFuncaoLambda>
 ```
 ## Resultado do Deploy
 
-![resultado-deploy](https://raw.githubusercontent.com/Jefferson-LFS/url-shortner/refs/heads/dev/screenshots/deploy-print-shell.png?token=GHSAT0AAAAAACZF7D7WNSORIF5VWQC3VJWYZZ4DRPA)
+![resultado-deploy](screenshots/deploy-print-shell.png)
 
 ## Testando Aplicação
 
-![teste-app](https://raw.githubusercontent.com/Jefferson-LFS/url-shortner/refs/heads/dev/screenshots/teste-function-postman.png?token=GHSAT0AAAAAACZF7D7WVTFYQGXQNKV7SGXGZZ4DVOA)
+![teste-app](screenshots/teste-function-postman.png)
 
 ## Estrutura do Projeto
 
