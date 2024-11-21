@@ -1,4 +1,4 @@
-package com.urlshortner;
+package com.urlshortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -11,9 +11,6 @@ public class UrlData {
     private String originalUrl;
 
     private Long expirationTime;
-
-
-
 
 }
 

@@ -1,4 +1,4 @@
-package com.urlshortner;
+package com.urlshortener;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;

@@ -1,7 +1,8 @@
 # Projeto Create Url Lambda
 
-Este repositório implementa uma aplicação de encurtamento de URLs utilizando a AWS Lambda desenvolvida durante o curso de Java da Rocketseat. 
-A aplicação tem como foco permitir que usuários criem URLs curtas que redirecionem para URLs originais.  
+   Este repositório implementa a aplicação responsável por gerar e armazenar os links encurtados em um bucket S3,  aplicação faz parte do sistema serverless de encurtamento de URLs que utiliza AWS Lambda, desenvolvido durante o curso de Java da Rocketseat. O sistema tem como foco permitir que usuários criem URLs curtas que redirecionem para URLs originais.  
+
+   Repositório da aplicação responsável por gerenciar o redirecionamento: [Aplicação de redirecionamento](https://github.com/Jefferson-LFS/redirect-url-shortener).
 
 ## Pré-requisitos
 
@@ -37,7 +38,7 @@ $ ./deploy.sh <NomeDaFuncaoLambda>
 
 ## Testando Aplicação
 
-![teste-app](screenshots/teste-function-postman.png)
+![teste-app](screenshots/create-code-postman.png)
 
 ## Estrutura do Projeto
 
